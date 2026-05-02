@@ -1,0 +1,1 @@
+Sistema completo de gestão de alunos e financeiro. Desenvolvido para resolver o problema de uma escola real. Funcionalidades: Autenticação de Usuário, Cadastro de alunos, Controle de mensalidades por mês/ano e Geração de Recibos em .txt. > Tecnologias usadas: HTML, CSS, JavaScript Vanilla, Supabase (Banco de Dados e Auth) e Netlify.
